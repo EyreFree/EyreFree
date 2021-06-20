@@ -1,6 +1,2 @@
-<a href="https://github.com/EyreFree">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eyrefree" height="230"/>
-</a>
-<a href="https://github.com/EyreFree">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eyrefree&show_icons=true" height="230"/>
-</a>
+![](https://github-readme-stats.anuraghazra1.vercel.app/api?username=eyrefree&show_icons=true)
+![](https://metrics.lecoq.io/eyrefree?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
