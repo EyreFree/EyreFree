@@ -1,8 +1,6 @@
-### EyreFree
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=EyreFree&show_icons=true" />
 
-Hi guys, this is EyreFree, AKA EF, iOS Developer.   
+Hi guys, this is `EyreFree`, AKA `EF`, iOS Developer.   
 
 Find me:
 
