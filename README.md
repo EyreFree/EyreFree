@@ -11,5 +11,5 @@ Find me:
 
 Projects:
 
-- 🔳 [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Generate good looking QR code;
-- 😂 [EFIconFont](https://github.com/EFPrefix/EFIconFont) - Easy to use.
+- 😂 [EFIconFont](https://github.com/EFPrefix/EFIconFont) - Easy to use;
+- 🔳 [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Generate good looking QR code.
