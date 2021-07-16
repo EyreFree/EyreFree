@@ -1,3 +1,15 @@
-<a href="https://github.com/EyreFree">
-  <img align="center" src="https://metrics.lecoq.io/eyrefree?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai"/>
-</a>
+### EyreFree
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=EyreFree&show_icons=true" />
+
+Hi guys, this is EyreFree, AKA EF, iOS Developer.   
+
+Find me:
+
+- 🐦 Twitter: [EyreFree777](https://twitter.com/EyreFree777)   
+- 👁️‍🗨️ Weibo: [eyrefree777](https://weibo.com/eyrefree777)   
+
+Projects:
+
+- 🔳 [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Generate good looking QR code;
+- 😂 [EFIconFont](https://github.com/EFPrefix/EFIconFont) - Easy to use.
