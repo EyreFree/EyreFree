@@ -9,7 +9,5 @@ Find me:
 
 Projects:
 
-<a data-hovercard-type="repository" data-hovercard-url="/EFPrefix/EFIconFont/hovercard" href="/EFPrefix/EFIconFont">EFPrefix/EFIconFont</a>
-
 - 😂 [EFIconFont](https://github.com/EFPrefix/EFIconFont) - Easy to use icon font toolbox;
 - 🔳 [EFQRCode](https://github.com/EFPrefix/EFQRCode) - Generate good looking QRCode.
